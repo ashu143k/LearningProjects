@@ -9,6 +9,7 @@ public class CheckWeekdayWithNumber {
 			System.out.println(i);
 			i--;
 		}
+		int a =10;
 
 	}
 
