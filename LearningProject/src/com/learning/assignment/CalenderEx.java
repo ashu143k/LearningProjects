@@ -2,7 +2,7 @@ package com.learning.assignment;
 
 import java.util.Calendar;
 
-public class ClanderEx {
+public class CalenderEx {
 
 	public static void main(String[] args) {
 		Calendar calend = Calendar.getInstance();

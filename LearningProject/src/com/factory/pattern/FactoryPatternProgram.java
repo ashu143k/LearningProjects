@@ -16,5 +16,4 @@ public class FactoryPatternProgram {
 		System.out.println("Overall bill Amount is : " + plan.getFinalAmount(months));
 		scan.close();
 	}
-
 }
